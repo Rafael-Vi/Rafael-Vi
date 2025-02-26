@@ -12,6 +12,12 @@
 - **Estado:** Em andamento
 - **Resumo:** Atualmente, estou a frequentar o curso de Engenharia Informática no ISEP, onde estou a explorar disciplinas avançadas como algoritmos, estrutura de dados, desenvolvimento de software, inteligência artificial e redes de computadores.
 
+## Certificacões
+
+- **Certificação:** CCNA (Cisco Certified Network Associate)
+- **Estado:** Em andamento
+- **Resumo:** No início do 2º semestre do 1º ano da universidade decidi começar a certificação CCNA, com o objetivo de aprofundar os meus conhecimentos em relação a servidores e como funciona a maioria do mundo digital.
+
 ## Interesses Profissionais
 
 - Desenvolvimento de software
