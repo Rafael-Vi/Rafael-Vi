@@ -1,27 +1,26 @@
-# What about me?
+# What About Me?  
 
-## Formação Acadêmica
+## Academic Background  
 
-### Colégio de Gaia
-- **Curso:** Informática e Multimédia (Nível 4 Profissional)
-- **Concluído em:** 2024
-- **Resumo:** Durante o curso no Colégio de Gaia, adquiri uma sólida base nas áreas de informática e multimédia, com foco em desenvolvimento de software, tecnologias web e produção multimédia.
+### Colégio de Gaia  
+- **Course:** Informatics and Multimedia (Level 4 Professional)  
+- **Completed in:** 2024  
+- **Summary:** During my studies at Colégio de Gaia, I built a solid foundation in informatics and multimedia, focusing on software development, web technologies, and multimedia production.  
 
-### Instituto Superior de Engenharia do Porto (ISEP)
-- **Curso:** Licenciatura em Engenharia Informática
-- **Estado:** Em andamento
-- **Resumo:** Atualmente, estou a frequentar o curso de Engenharia Informática no ISEP, onde estou a explorar disciplinas avançadas como algoritmos, estrutura de dados, desenvolvimento de software, inteligência artificial e redes de computadores.
+### Instituto Superior de Engenharia do Porto (ISEP)  
+- **Course:** Bachelor's Degree in Computer Engineering  
+- **Status:** Ongoing  
+- **Summary:** I am currently pursuing a degree in Computer Engineering at ISEP, where I am exploring advanced subjects such as algorithms, data structures, software development, artificial intelligence, and computer networks.  
 
-## Certificacões
+## Certifications  
 
-- **Certificação:** CCNA (Cisco Certified Network Associate)
-- **Estado:** Em andamento
-- **Resumo:** No início do 2º semestre do 1º ano da universidade decidi começar a certificação CCNA, com o objetivo de aprofundar os meus conhecimentos em relação a servidores e como funciona a maioria do mundo digital.
+- **Certification:** CCNA (Cisco Certified Network Associate)  
+- **Status:** In progress  
+- **Summary:** At the beginning of the second semester of my first year at university, I decided to start the CCNA certification to deepen my knowledge of servers and understand how most of the digital world operates.  
 
-## Interesses Profissionais
+## Professional Interests  
 
-- Desenvolvimento de software
-- Inteligência artificial
-- Multimédia e design digital
-- Gestão de projetos de TI
-- Tecnologia web e mobile
+- Software development  
+- Multimedia and digital design  
+- IT project management  
+- Web and mobile technology  
