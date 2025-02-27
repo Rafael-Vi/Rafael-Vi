@@ -1,6 +1,6 @@
 # What About Me?  
 
-## Some stuff about me
+## Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rafael-Vi&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ## Academic Background  
@@ -29,5 +29,4 @@
 - **Summary:** At the beginning of the second semester of my first year at university, I decided to start the CCNA certification to deepen my knowledge of servers and understand how most of the digital world operates.  
 
 ## Projects  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Vi&repo=differ)](https://github.com/Rafael-Vi/differ)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Vi&repo=simple-sqlite)](https://github.com/Rafael-Vi/simple-sqlite)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Vi&repo=LEI-PROJECTS)](https://github.com/Rafael-Vi/LEI-PROJECTS)
