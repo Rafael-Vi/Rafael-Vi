@@ -30,3 +30,4 @@
 
 ## Projects  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Vi&repo=LEI-PROJECTS)](https://github.com/Rafael-Vi/LEI-PROJECTS)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafael-Vi&repo=EIGENFACES-JAVA_PROJECT)](https://github.com/Rafael-Vi/EIGENFACES-JAVA_PROJECT)
