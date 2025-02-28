@@ -12,9 +12,12 @@
 - **Summary:** During my studies at Colégio de Gaia, I built a solid foundation in informatics and multimedia, focusing on software development, web technologies, and multimedia production.
 
 #### Languages learned: 
-<img src="https://github.com/user-attachments/assets/6691a8c0-6f5f-4276-bd23-a0e8e10549f3" width="100" />
+<div style="flex: 1;">
+  <img src="https://github.com/user-attachments/assets/6691a8c0-6f5f-4276-bd23-a0e8e10549f3" width="100" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="100" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/2048px-VB.NET_Logo.svg.png" width="100" />
+</div>
+
 
 ### Instituto Superior de Engenharia do Porto (ISEP)  
 - **Course:** Bachelor's Degree in Computer Engineering  
@@ -22,7 +25,9 @@
 - **Summary:** I am currently pursuing a degree in Computer Engineering at ISEP, where I am exploring advanced subjects such as algorithms, data structures, software development, artificial intelligence, and computer networks.
 
 #### Languages learned: 
-<img src="https://github.com/user-attachments/assets/e6ad9276-a7ab-4f0b-b3ab-ed831dc3f014" width="100" />
+<div style="flex: 1;">
+  <img src="https://github.com/user-attachments/assets/e6ad9276-a7ab-4f0b-b3ab-ed831dc3f014" width="100" />
+</div>
 
 
 ## Certifications  
